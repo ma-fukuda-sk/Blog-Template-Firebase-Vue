@@ -1,8 +1,12 @@
 # Vue + Firebase Blog Template
 
+|                                   |                                           |
+|      :---------:                  |            :------------------:           |  
+| ![Screenshot from 2019-06-03 18-32-52](https://user-images.githubusercontent.com/35738310/58818427-365a0e80-862e-11e9-82b9-f840de57edb0.png) | ![Screenshot from 2019-06-03 18-32-15](https://user-images.githubusercontent.com/35738310/58818434-39ed9580-862e-11e9-837b-c8732e16a046.png) |
+
 ## Getting started
 
-This is a working blog written in Vue with Firebase as backend. I'm using Vuetify for styling (Instagram look). Check out <a href="https://anna-s-blog.firebaseapp.com/">DEMO.</a>
+This is a working blog written in Vue with Firebase as backend. I'm using Vuetify for styling (Instagram look). Check out <a href="https://anna-s-blog.firebaseapp.com/">DEMO.</a> and images below.
 
 In order to use this blog you need to create a Firebase project. Go to the project's overview and create an app. Copy the received config data
 and paste them into './src/firebase.config.js'. Then you are ready to go!
@@ -38,4 +42,6 @@ npm run lint
 ### Run your unit tests
 
 npm run test:unit
+
+
 
