@@ -296,6 +296,7 @@ export default {
       this.reset();
     },
     async getBlog(blog) {
+      this.reset();
       console.log(this.blogData);
       this.isLoading = true;
       this.editMode = true;
