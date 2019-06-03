@@ -11,6 +11,7 @@ This is a working blog written in Vue with Firebase as backend. I'm using Vuetif
 In order to use this blog you need to create a Firebase project. Go to the project's overview and create an app. Copy the received config data
 and paste them into './src/firebase.config.js'. Then you are ready to go!
 Create an user in your Firebase project, so that you can login to the blog writing page (https:.../createBlog, e.g. localhost:8080/createBlog).
+Images you want to upload, need to be quadratic, otherwise layout is shifted.
 
 
 
